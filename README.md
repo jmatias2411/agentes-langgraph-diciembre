@@ -8,7 +8,7 @@
 ![Rich](https://img.shields.io/badge/Rich-CLI_UI-magenta?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-*Proyecto desarrollado para la iniciativa **#DiciembreDeAgentes 2025** (Día 20)*
+*Proyecto desarrollado para la iniciativa **#DiciembreDeAgentes 2025** (Día 20)* de [Luis Antonio Beltran Prieto](https://www.linkedin.com/in/luisantoniobeltran/)
 
 [Ver Iniciativa](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob) | [Reportar Bug](https://github.com/jmatias2411/agentes-langgraph-diciembre/issues)
 
@@ -168,7 +168,4 @@ Este es un proyecto de código abierto creado para la comunidad. ¡Los PRs son b
 Si tienes ideas para nuevos agentes (ej: un agente que genere imágenes, o uno que valide código Python), anímate a colaborar.
 
 ---
-Hecho con ❤️ y ☕ por [Matías Palomino](https://github.com/TU_USUARIO)
-
-¡Si te sirvió, dale una estrella ⭐ al repo!
-
+Hecho con ❤️ y ☕ por [Matías Palomino](https://www.linkedin.com/in/matias-palomino-luna24/)
